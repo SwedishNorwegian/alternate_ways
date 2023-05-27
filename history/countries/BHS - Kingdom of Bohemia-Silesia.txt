@@ -1,0 +1,23 @@
+﻿capital = 9
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 43
+	neutrality = 47
+	fascism = 7
+	communism = 3
+}
+
+recruit_character = BHS_edvard_benesh
+recruit_character = BHS_karl_albrecht
+recruit_character = BHS_jaroslav_krejchi
+recruit_character = BHS_frantishek_havlik
+recruit_character = BHS_klement_gottwald

@@ -1,0 +1,90 @@
+characters={
+	### The King of Bohemia
+	BHS_karl_albrecht = {
+		name="Karl Albrecht"
+		portraits = {
+			civilian = {
+				large="GFX_portrait_POL_karl_albrecht"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}		
+	}
+	BHS_edvard_benesh={
+		name="Edvard Beneš"
+		portraits={
+			civilian={
+				large=GFX_portrait_Edvard_Benes
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	BHS_jaroslav_krejchi={
+		name="Jaroslav Krejčí"
+		portraits={
+			civilian={
+				large=GFX_portrait_Jaroslav_Krejci
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	BHS_frantishek_havlik={
+		name="František Havlík"
+		portraits={
+			civilian={
+				large=GFX_portrait_BHS_frantishek_havlik
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits={ eager_collaborator captain_of_industry }
+			expire="1942.1.1.12"
+			id=-1
+		}
+	}
+
+	BHS_klement_gottwald={
+		name="Klement Gottwald"
+		portraits={
+			army={
+				small=GFX_portrait_BHS_klement_gottwald_small
+			}
+			civilian={
+				large=GFX_portrait_BHS_klement_gottwald
+			}
+		}
+		advisor={
+			slot = navy_chief
+			idea_token = BHS_klement_gottwald
+			allowed = {
+				original_tag = BHS
+			}
+			traits = {
+				navy_chief_reform_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+		
+		country_leader={
+			ideology=stalinism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
