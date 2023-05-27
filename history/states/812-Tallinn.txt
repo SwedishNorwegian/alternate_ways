@@ -4,7 +4,8 @@ state={
 	name="STATE_812"
 
 	history={
-		owner = EST
+		owner = LIT
+		add_core_of = LIT
 		victory_points = {
 			3152 5 
 		}
@@ -19,8 +20,6 @@ state={
 			}
 
 		}
-		add_core_of = EST
-
 	}
 
 	provinces={

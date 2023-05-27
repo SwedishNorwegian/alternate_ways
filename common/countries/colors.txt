@@ -8,11 +8,20 @@ BHS = {
 	color_ui = rgb { 91 45 59 }
 }
 
+DEN = {
+	color = rgb { 111 71 71 }
+	color_ui = rgb { 111 71 71 }
+}
+
 FRR = {
 	color = rgb { 57 113 208 }
 	color_ui = rgb { 57 113 208 }
 }
 
+SWE = {
+	color = rgb { 24 88 148 }
+	color_ui = rgb { 47 172 255 }
+}
 
 ######################################
 ########### Vanilla Colors ###########
@@ -31,10 +40,7 @@ SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }
 }
-SWE = {
-	color = rgb { 36 132 247 }
-	color_ui = rgb { 47 172 255 }
-}
+
 FRA = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
@@ -107,10 +113,6 @@ ALB = {
 NOR = {
 	color = rgb { 111 71 71 }
 	color_ui = rgb { 144 92 92 }
-}
-DEN = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 199 151 121 }
 }
 BUL = {
 	color = rgb { 51 155 0 }

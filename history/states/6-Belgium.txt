@@ -10,7 +10,8 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = BEL
+		owner = HOL
+		add_core_of = HOL
 		victory_points = { 516 30 }
 		victory_points = { 6598 30 }
 		victory_points = { 6560 5 }
@@ -28,10 +29,7 @@ state={
 				naval_base = 8
 			}
 		}
-		
 		add_extra_state_shared_building_slots = 2
-		
-		add_core_of = BEL
 	}
 
 	provinces={

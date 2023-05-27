@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = LIT
+		add_core_of = LIT
 		victory_points = {
 			11312 1 #Marijampole
 		}
@@ -15,8 +16,6 @@ state={
 			air_base = 4
 
 		}
-		add_core_of = LIT
-
 	}
 
 	provinces={
