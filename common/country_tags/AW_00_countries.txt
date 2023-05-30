@@ -1,2 +1,3 @@
 BHS = "countries/Bohemia-Silesia.txt"
 FRR = "countries/French Rhineland.txt"
+RUS = "countries/Russian Empire.txt"

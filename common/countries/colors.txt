@@ -18,6 +18,16 @@ FRR = {
 	color_ui = rgb { 57 113 208 }
 }
 
+RUS = {
+    color = rgb { 72 143 68 }
+    color_ui = rgb { 72 143 68 }
+}
+
+SOV = {
+    color = rgb { 224 5 5 }
+    color_ui = rgb { 193 81 81 }
+}
+
 SWE = {
 	color = rgb { 24 88 148 }
 	color_ui = rgb { 47 172 255 }
@@ -35,10 +45,6 @@ GER = {
 ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
-}
-SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
 }
 
 FRA = {
