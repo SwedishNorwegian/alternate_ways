@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = MON
+		add_core_of = MON
 		victory_points = {
 			7835 2 
 		}
@@ -23,8 +24,6 @@ state={
 			infrastructure = 2
 
 		}
-		add_core_of = SOV
-		add_core_of = BYA
 	}
 
 	provinces={
