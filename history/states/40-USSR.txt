@@ -7,8 +7,8 @@ state={
 	state_category = large_town
 
 	history={
-		owner = RUS
-		add_core_of = RUS
+		owner = SOV
+		add_core_of = SOV
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

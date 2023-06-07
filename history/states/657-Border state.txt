@@ -11,7 +11,7 @@ state={
 	state_category = pastoral
 
 	history = {
-		owner = FER
+		owner = SOV
 		add_core_of = FER
 		buildings = {
 			infrastructure = 2
