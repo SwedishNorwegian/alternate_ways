@@ -27,6 +27,12 @@ if = {
 	set_country_flag = vlasov_owner_flag
 }
 
+### Soviet Civil War
+declare_war_on = {
+	target = RUS
+	type = annex_everything
+}
+
 #POLITICAL ADVISORS
 recruit_character = SOV_mikhail_kalinin
 recruit_character = SOV_nikita_khrushchyov
