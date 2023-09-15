@@ -16,6 +16,8 @@ set_popularities = {
 	communism = 3
 }
 
+puppet = SLO
+
 recruit_character = BHS_edvard_benesh
 recruit_character = BHS_karl_albrecht
 recruit_character = BHS_jaroslav_krejchi

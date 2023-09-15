@@ -9,6 +9,7 @@ state={
 		owner = POL
 		controller = POL
 		add_core_of = POL
+		add_claim_by = GER
 		victory_points = {
 			6375 3
 		}

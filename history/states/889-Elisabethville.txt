@@ -9,12 +9,13 @@ state = {
 	}
 
 	history = {
-		owner = ENG
+		owner = SAF
+		add_core_of = SAF
+		add_core_of = COG
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = COG
 
 	}
 	

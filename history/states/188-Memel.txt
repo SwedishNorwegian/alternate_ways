@@ -9,7 +9,8 @@ state=
 	
 	history = {
 		owner = POL
-		add_core_of = POL		
+		add_core_of = POL
+		add_claim_by = GER		
 		victory_points = {
 			3288 3
 		}
